@@ -1,4 +1,4 @@
-package analises1;
+package analise;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package analises1;
+package analise;
 
 public class TiposToken {
     public static final int ID = 1;

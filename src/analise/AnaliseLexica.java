@@ -1,4 +1,4 @@
-package analises1;
+package analise;
 
 public class AnaliseLexica {
     private String s;

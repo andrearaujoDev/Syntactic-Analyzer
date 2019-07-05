@@ -1,4 +1,4 @@
-package analises1;
+package analise;
 
 import javax.swing.JOptionPane;
 

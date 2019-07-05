@@ -1,23 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package compilador1;
+package compilador;
 
-import analises1.AnaliseSintatica;
+import analise.AnaliseSintatica;
 import java.awt.Dimension;
 import java.awt.Toolkit;
 
-/**
- *
- * @author valter
- */
 public class TelaPrincipal extends javax.swing.JFrame {
 
-    /**
-     * Creates new form TelaPrincipal
-     */
     public TelaPrincipal() {
         initComponents();
         
